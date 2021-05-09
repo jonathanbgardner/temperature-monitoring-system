@@ -1,2 +1,2 @@
-# cloud-final-project
-Cloud Computing Final Project
+# Temperature Monitoring System
+CS 4287 Cloud Computing Final Project
