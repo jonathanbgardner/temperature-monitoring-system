@@ -1,7 +1,7 @@
 # Environment Monitoring System
 CS 4287 Cloud Computing Final Project
 
-A temperature monitoring system consisting of embedded systems and cloud-based components. 
+An environment monitoring system consisting of embedded systems and cloud-based components. 
 
 This repository contains a .csv file, DB.csv, which contains some of the initial temperature data from our environment monitoring system. mapreduce.py runs a MapReduce operation on this data. You can run it with:
 ```python3 mapreduce.py```
